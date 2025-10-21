@@ -9,7 +9,6 @@ import {
   PlusIcon,
   UsersIcon,
   VideoCameraIcon,
-  XCircleIcon,
   TrashIcon // Thêm icon thùng rác
 } from '@heroicons/react/24/outline'; 
 

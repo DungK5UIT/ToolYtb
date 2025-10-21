@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Video } from '../types';
 import { PlayCircleIcon } from '@heroicons/react/24/outline'; 
-import { toast } from 'react-toastify'; 
 import 'react-toastify/dist/ReactToastify.css';
 
 // Component con để xử lý logic hiển thị mô tả

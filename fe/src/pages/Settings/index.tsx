@@ -1,5 +1,5 @@
 import React from 'react';
-import { InformationCircleIcon, PlayCircleIcon, PlusCircleIcon, Cog6ToothIcon, ClockIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
+import { InformationCircleIcon, PlayCircleIcon, PlusCircleIcon, Cog6ToothIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
 
 const UserGuidePage: React.FC = () => {
   return (
