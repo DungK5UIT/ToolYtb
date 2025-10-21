@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://34.142.129.128:9002/api/v1';
+const API_URL = process.env.REACT_APP_API_URL;
 
 export const fetchChannels = async () => {
   try {
